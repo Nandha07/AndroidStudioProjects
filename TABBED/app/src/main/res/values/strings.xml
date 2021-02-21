@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TABBED</string>
+    <string name="tab_text_1">chats</string>
+    <string name="tab_text_2">status</string>
+    <string name="tab3">calls</string>
+    <string name="b">HOME</string>
+    <string name="b1">ADD</string>
+    <string name="b2">SEARCH</string>
+
+
+</resources>

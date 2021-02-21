@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/home"
+        android:id="@+id/b"
+        app:showAsAction="ifRoom"
+
+        android:title="@string/b" />
+    <item android:title="@string/b1"
+        android:icon="@drawable/add_24"
+        android:id="@+id/b1"
+        app:showAsAction="ifRoom"
+
+        />
+    <item android:title="@string/b2"
+        android:icon="@drawable/search_24"
+        android:id="@+id/b2"
+        app:showAsAction="ifRoom"
+
+        />
+</menu>
